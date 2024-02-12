@@ -1,4 +1,4 @@
-package com.atipera.githubRepositories.configuration;
+package com.atipera.githubRepositories.domain.configuration;
 
 
 import feign.codec.Decoder;
